@@ -5,7 +5,7 @@ import asyncio
 import threading
 
 
-TKN_FILE = "adwhuiaYD*&ya98d9a8u98.txt"
+TKN_FILE = "tokens.txt"
 
 class DiscordSelfBot(discord.Client):
     async def on_ready(self):
